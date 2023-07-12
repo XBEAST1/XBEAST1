@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Express Js, Next Js, Mongo Db**
 
-- 📫 How to reach me **beastgamerx609@gmail.com**
+- 📫 How to reach me **xbeast331@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
