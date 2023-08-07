@@ -32,7 +32,6 @@ const data = {
         instagram: ig_hamxa91,
         youtube: @XBEAST321,
     },
-    return 0;
 };
 ```
 ```
