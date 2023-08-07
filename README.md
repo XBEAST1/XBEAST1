@@ -11,7 +11,7 @@
 <br>
 
 ```javascript
-const 0x0007ff = {
+const data = {
     pronouns: "He" | "Him",
     codename: "XB3AST",
     status: "alive",
