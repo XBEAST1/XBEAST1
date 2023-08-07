@@ -35,13 +35,13 @@ const data = {
 };
 ```
 ```
-┌──(kali@kali)-[~/]
-└─$ python3 xb3ast.py
+┌──(root@kali)-[~/]
+└─# python3 xb3ast.py
 
 Hello stranger! XB3AST is serving here...
 
-┌──(kali@kali)-[~/]
-└─$ 
+┌──(root@kali)-[~/]
+└─# 
 ```
 <h2><b>💻 Access Me <a href="https://xbeast0.github.io/XBEAST-Terminal/">In Terminal</a></b></h2>
 
