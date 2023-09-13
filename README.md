@@ -20,10 +20,10 @@ const data = {
     askMeAbout: ["soft dev", "web dev", "tech"],
     webdev: {
         frontEnd: {
-            code: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            Techstack: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
         },
         backEnd: {
-            databases: ["SQL, PHP"],
+            Techstack: ["SQL, PHP", "Laravel"],
         }
     },
     contact: {
