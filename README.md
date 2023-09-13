@@ -19,11 +19,8 @@ const data = {
     code: ["{Python}", "{PHP}", "{Javascript}"],
     askMeAbout: ["soft dev", "web dev", "tech"],
     webdev: {
-        frontEnd: {
-            Techstack: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
-        },
-        backEnd: {
-            Techstack: ["SQL, PHP", "Laravel"],
+        frontEnd-technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
+        backEnd-technologies: ["SQL, PHP", "Laravel"],
         }
     },
     contact: {
