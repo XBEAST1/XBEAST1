@@ -19,13 +19,16 @@ const data = {
     code: ["{Python}", "{PHP}", "{Javascript}"],
     askMeAbout: ["soft dev", "web dev", "tech"],
     webdev: {
-        frontEnd-technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
-        backEnd-technologies: ["SQL, PHP", "Laravel"],
+        frontEnd: {
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
+        },
+        backEnd: {
+            technologies: ["SQL, "PHP", "Laravel"],
         }
     },
     contact: {
         website: xbeast0.github.io/xbeast/,
-        email: `xbeast331@proton.me`,
+        email: xbeast331@proton.me,
         instagram: ig_hamxa91,
         youtube: @XBEAST321,
     },
