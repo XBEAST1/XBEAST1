@@ -60,7 +60,3 @@ Hello stranger! XB3AST is serving here...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbeast1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-
-<h2><b>🏆 Trophies</b></h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xbeast1&theme=onedark)](https://github.com/r3dhulk/github-profile-trophy)
