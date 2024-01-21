@@ -5,7 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE32F7&background=000000&width=435&lines=A+Cyber+Security+Enthusiast;A+Website+Developer;A+Software+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xbeast1&label=Profile%20views&color=0e75b6&style=flat" alt="xbeast1" /> </p>
-  
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" style="max-width: 100%;"><i>
+
 - 🌱 I’m currently learning **React Js, Node Js, Express Js, Next Js, Mongo Db**
 <br>
 
