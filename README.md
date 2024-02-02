@@ -29,7 +29,7 @@ const data = {
     contact: {
         website: xbeast0.github.io/xbeast/,
         email: xbeast331@proton.me,
-        instagram: ig_hamxa91,
+        instagram: 0x00007ff,
         youtube: @XBEAST321,
     },
 };
