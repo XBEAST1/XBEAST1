@@ -15,7 +15,7 @@ const data = {
     pronouns: "He" | "Him",
     codename: "XB3AST",
     status: "alive",
-    doing: "doing: "Forging Web Realms and Crafting Cyber Scripts in Shadows...",
+    doing: "Forging Web Realms and Crafting Cyber Scripts in Shadows...",
     code: ["{Python}", "{PHP}", "{Javascript}"],
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
