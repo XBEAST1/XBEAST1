@@ -34,7 +34,7 @@ const data = {
     },
 };
 ```
-<h2><b>💻 Access Me <a href="https://xbeast0.github.io/XBEAST-Terminal/">In Terminal</a></b></h2>
+<h2><b>💻 Access Me <a href="https://xbeast0.github.io/XBEAST-Terminal.github.io/">In Terminal</a></b></h2>
 
 ```
 ┌──(root@kali)-[~/]
