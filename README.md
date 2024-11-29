@@ -20,7 +20,7 @@ const data = {
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
         frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "JQuery"],
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "Tailwind CSS"],
         },
         backEnd: {
             technologies: ["SQL, "PHP", "Laravel"],
