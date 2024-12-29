@@ -34,7 +34,7 @@ const data = {
     },
 };
 ```
-<h2><b>💻 Access Me <a href="https://xbeast0.github.io/xbeast-terminal.vercel.app/">In Terminal</a></b></h2>
+<h2><b>💻 Access Me <a href="https://xbeast-terminal.vercel.app/">In Terminal</a></b></h2>
 
 ```
 ┌──(root@kali)-[~/]
@@ -48,7 +48,7 @@ Hello stranger! XB3AST is serving here...
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="arch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 <img align="left" alt="arch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
