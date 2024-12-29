@@ -20,21 +20,21 @@ const data = {
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
         frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "Tailwind CSS"],
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS"],
         },
         backEnd: {
-            technologies: ["SQL, "PHP", "Laravel"],
+            technologies: ["Node JS", "Express JS", "Next JS" "SQL, "PHP", "Laravel"],
         }
     },
     contact: {
-        website: xbeast0.github.io/xbeast/,
+        website: xbeast1.vercel.app,
         email: xbeast331@proton.me,
         instagram: 0x00007ff,
         youtube: @XBEAST321,
     },
 };
 ```
-<h2><b>💻 Access Me <a href="https://xbeast0.github.io/XBEAST-Terminal.github.io/">In Terminal</a></b></h2>
+<h2><b>💻 Access Me <a href="https://xbeast0.github.io/xbeast-terminal.vercel.app/">In Terminal</a></b></h2>
 
 ```
 ┌──(root@kali)-[~/]
