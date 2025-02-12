@@ -11,9 +11,6 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Js, Node Js, Express Js, Next Js, Mongo Db**
-<br>
-
 ```javascript
 const data = {
     pronouns: "He" | "Him",
@@ -24,7 +21,7 @@ const data = {
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
         frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS"],
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "GSAP", "Framer Motion"],
         },
         backEnd: {
             technologies: ["Node JS", "Express JS", "Next JS" "SQL, "PHP", "Laravel"],
