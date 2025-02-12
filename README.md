@@ -55,8 +55,9 @@ Hello stranger! XB3AST is serving here...
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="tailwind" width="33px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="tailwind" width="33px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" style="padding-right:10px;" />
+<img align="left" alt="tailwind" width="26px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
@@ -66,15 +67,3 @@ Hello stranger! XB3AST is serving here...
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br>
 <br>
-    
-<h2><b> 📊 Github Stats ✨ </b></h2>
-<div class="stats" align="center">
-
-<img  alt="stats_banner" height="150px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/>
-
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbeast1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xbeast1&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbeast1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
