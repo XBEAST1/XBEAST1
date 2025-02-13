@@ -17,7 +17,7 @@ const data = {
     codename: "XB3AST",
     status: "alive",
     doing: "Forging Web Realms and Crafting Cyber Scripts in Shadows...",
-    code: ["{Python}", "{PHP}", "{Javascript}"],
+    code: ["{Python}", "{PHP}", "{Javascript}", "{Typescript}", "{Bash}"],
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
         frontEnd: {
