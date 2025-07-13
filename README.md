@@ -29,7 +29,7 @@ const data = {
     },
     contact: {
         website: xbeast1.vercel.app,
-        email: xbeast331@proton.me,
+        email: xbeast1@proton.me,
         instagram: 0x00007ff,
         youtube: @XBEAST321,
     },
