@@ -19,14 +19,14 @@ const data = {
     codename: "XB3AST",
     status: "alive",
     doing: "Forging Web Realms and Crafting Cyber Scripts in Shadows...",
-    code: ["{Python}", "{PHP}", "{Javascript}", "{Typescript}", "{Bash}"],
+    code: ["{Python}", "{Javascript}", "{Typescript}", "{Bash}"],
     askMeAbout: ["soft dev", "web dev", "cyber sec"],
     webdev: {
         frontEnd: {
             technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "GSAP", "Framer Motion"],
         },
         backEnd: {
-            technologies: ["Node JS", "Express JS", "Next JS" "SQL, "PHP", "Laravel"],
+            technologies: ["Next JS", "Nest JS", "Node JS", "Express JS", "FastAPI", "SQL, "PHP", "Laravel"],
         }
     },
     contact: {
